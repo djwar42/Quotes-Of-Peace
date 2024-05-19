@@ -34,9 +34,9 @@ export default function QuoteGenerator({
   }
 
   const shareOnTwitter = () => {
-    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(
+    const twitterUrl = `https://twitter.com/intent/tweet?text="${encodeURIComponent(
       quote.text
-    )} - ${encodeURIComponent(quote.author)}`
+    )}" - ${encodeURIComponent(quote.author)}`
     window.open(twitterUrl, '_blank')
   }
 
