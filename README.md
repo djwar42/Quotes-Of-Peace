@@ -2,6 +2,6 @@
 
 A lovely website full of peaceful quotes.
 
-[http://quotesofpeace.com](quotesofpeace.com)
+[https://quotesofpeace.com](https://quotesofpeace.com)
 
 ![earthpeace.com.au](/quotes-of-peace.png?raw=true)
