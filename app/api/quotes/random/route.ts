@@ -13,3 +13,4 @@ export async function GET() {
 }
 
 export const revalidate = 0
+export const fetchCache = 'force-no-store'
