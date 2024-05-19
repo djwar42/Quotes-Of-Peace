@@ -1,12 +1,27 @@
+// app/page.tsx
 import Link from 'next/link'
 import QuoteGenerator from './components/QuoteGenerator'
 import { Logo } from './components/icons'
-import { getAllQuotes } from '@/lib/quotes'
+
+const getBaseUrl = () => {
+  if (process.env.NODE_ENV === 'development') {
+    return 'http://localhost:3000'
+  } else {
+    return process.env.NEXT_PUBLIC_BASE_URL
+  }
+}
+
+async function getRandomQuote() {
+  const baseUrl = getBaseUrl()
+  const response = await fetch(`${baseUrl}/api/quotes/random`, {
+    cache: 'no-store'
+  })
+  const quote = await response.json()
+  return quote
+}
 
 export default async function Home() {
-  const quotes = getAllQuotes()
-  const randomIndex = Math.floor(Math.random() * quotes.length)
-  const quote = quotes[randomIndex]
+  const quote = await getRandomQuote()
 
   return (
     <div className='min-h-screen flex flex-col'>

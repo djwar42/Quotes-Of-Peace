@@ -4,7 +4,10 @@ import { getAllQuotes } from '@/lib/quotes'
 export async function GET() {
   const quotes = getAllQuotes()
   const randomIndex = Math.floor(Math.random() * quotes.length)
-  console.log(randomIndex)
   const quote = quotes[randomIndex]
-  return NextResponse.json(quote)
+
+  const response = NextResponse.json(quote)
+  response.headers.set('Cache-Control', 'no-store')
+
+  return response
 }
