@@ -1,7 +1,7 @@
 // quotes.ts
 import fs from 'fs'
 
-const fileContent = fs.readFileSync('@/quotes.md', 'utf8')
+const fileContent = fs.readFileSync('./lib/quotes.md', 'utf8')
 
 export function getAllQuotes() {
   const quotes = fileContent.split('\n\n')
