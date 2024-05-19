@@ -25,7 +25,7 @@ export default function QuoteGenerator({
   const generateNewQuote = () => {
     setLoading(true)
     // Fetch a new random quote from the server
-    fetch('/api/quotes/random')
+    fetch('/api/quotes/random', { cache: 'no-store' })
       .then((response) => response.json())
       .then((data) => {
         setQuote(data)
