@@ -4,10 +4,10 @@ import QuoteGenerator from './components/QuoteGenerator'
 import { Logo } from './components/icons'
 
 const getBaseUrl = () => {
-  if (process.env.NODE_ENV === 'development') {
-    return 'http://localhost:3000'
-  } else {
+  if (process.env.NODE_ENV === 'production') {
     return process.env.BASE_URL
+  } else {
+    return 'http://localhost:3000'
   }
 }
 
