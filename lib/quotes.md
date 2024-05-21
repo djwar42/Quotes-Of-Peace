@@ -228,3 +228,45 @@ Good wishes alone will not ensure peace.
 
 You can find peace amidst the storms that threaten you. 
 - Joseph B. Wirthlin
+
+You have everything you need for complete peace and total happiness right now. 
+- Wayne W. Dyer
+
+Until he extends the circle of his compassion to all living things, man will not himself find peace. 
+- Albert Schweitzer
+
+Without inner peace, outer peace is impossible. We all wish for world peace, but world peace will never be acheived unless we first establish peace within our own minds. We can send so-called 'peacekeeping forces' into areas of conflict, but peace cannot be oppossed from the outside with guns. Only by creating peace within our own mind and helping others to do the same can we hope to achieve peace in this world. 
+- Geshe Kelsang Gyatso
+
+Rest and be thankful. 
+- William Wordsworth
+
+To understand the immeasurable, the mind must be extraordinarily quiet, still.
+- J. Krishnamurti
+
+There is peace even in the storm.
+- Vincent van Gogh
+
+The practice of forgiveness is our most important contribution to the healing of the world.
+- Marianne Williamson
+
+Peace is more than the absence of war. Peace is accord. Harmony.
+- Laini Taylor
+
+It does not matter how long you are spending on the earth, how much money you have gathered or how much attention you have received. It is the amount of positive vibration you have radiated in life that matters.
+- Amit Ray
+
+Instead of hating the people you think are war-makers, hate the appetites and disorder in your own soul, which are the causes of war. If you love peace, then hate injustice, hate tyranny, hate greed - but hate these things in yourself, not in another.
+- Thomas Merton
+
+A great human revolution in just a single individual will help achieve a change in the destiny of a nation and, further, can even enable a change in the destiny of all humankind.
+- Daisaku Ikeda
+
+If there is righteousness in the heart, there will be beauty in the character. If there is beauty in the character, there will be harmony in the home. If there is harmony in the home, there will be order in the nations. When there is order in the nations, there will peace in the world.
+- Confucius
+
+Whenever you are confronted with an opponent. Conquer him with love.
+- Mahatma Gandhi
+
+Letting go gives us freedom, and freedom is the only condition for happiness. If, in our heart, we still cling to anything - anger, anxiety, or possessions - we cannot be free.
+- Thich Nhat Hanh
