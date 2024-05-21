@@ -75,13 +75,13 @@ export default function QuoteGenerator({
         </div>
       </Card>
       <button
-        className='mt-6 px-4 py-2 bg-[#e2e8f0] rounded-lg hover:bg-[#f1f5f9]'
+        className='mt-6 px-4 py-2 bg-[#e2e8f0] rounded-lg hover:bg-[#f1f5f9] mb-6'
         onClick={generateNewQuote}
       >
         {loading ? (
-          <LoadingIcon className='animate-spin h-6 w-6 text-black mb-6' />
+          <LoadingIcon className='animate-spin h-6 w-6 text-black' />
         ) : (
-          <GenerateIcon className='h-6 w-6 text-black mb-6' />
+          <GenerateIcon className='h-6 w-6 text-black' />
         )}
       </button>
     </>
