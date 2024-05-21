@@ -79,9 +79,9 @@ export default function QuoteGenerator({
         onClick={generateNewQuote}
       >
         {loading ? (
-          <LoadingIcon className='animate-spin h-6 w-6 text-black' />
+          <LoadingIcon className='animate-spin h-6 w-6 text-black mb-6' />
         ) : (
-          <GenerateIcon className='h-6 w-6 text-black' />
+          <GenerateIcon className='h-6 w-6 text-black mb-6' />
         )}
       </button>
     </>
